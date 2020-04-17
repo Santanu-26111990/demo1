@@ -1,1 +1,4 @@
 Another new file is created
+
+Now you have learnt quite a few things in Git.
+So are you quite ok with this ???
